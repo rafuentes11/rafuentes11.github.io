@@ -5,5 +5,6 @@ I have experience with programming languages such as java, c++, c, and kotlin. A
 object oriented programming, mobile app development, and web-based programming. 
 
 ### Links
-(https://www.linkedin.com/in/rodrigo-fuentes-75304817b/"Linkeldn")
-(rafuentes763@gmail.com/"Email")
+[Linkedin](https://www.linkedin.com/in/rodrigo-fuentes-75304817b/)
+
+[Gmail](rafuentes763@gmail.com/)
