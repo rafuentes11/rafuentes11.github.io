@@ -10,4 +10,4 @@ object oriented programming, mobile app development, and web-based programming.
 
 
 ### Interests
-I enjoy playing and watching soccer, working out, and cutting hair on my free time. 
+ 
