@@ -1,9 +1,7 @@
 <h1 align="center">Hi , I'm Rodrigo Fuentes</h1>
 <h3 align="center">Frontend Engineer | Cloud Infrastructure Engineer</h3>
 
-- 🔭 I’m currently working on **Azure Admin Page**
 
-- 📫 How to reach me **rafuentes763@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
